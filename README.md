@@ -8,6 +8,6 @@ An add btn is shown at first and by clicking it, an input for title and a text a
 
 Technics used:
 - 
-React hooks (use State,Context,Effect,Params)
-React Router
-Array methods (map,filter,find)
+React hooks (use State,Context,Effect,Params) -
+React Router -
+Array methods (map,filter,find) -
