@@ -10,4 +10,4 @@ Technics used:
 - 
 React hooks (use State,Context,Effect,Params) -
 React Router -
-Array methods (map,filter,find) -
+Array methods (map,filter,find) 
